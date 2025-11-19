@@ -88,5 +88,3 @@ This table unites the core finding with its direct business impact and the neces
 **Professional Note:**  
 I leverage advanced data analytics to turn complex datasets into strategic insights. I welcome collaborative opportunities, professional discussions, and projects that drive measurable impact. Connect via LinkedIn, explore my work on GitHub, or view detailed case studies in my portfolio.
 
-```
-```
