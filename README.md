@@ -26,7 +26,7 @@ The analysis is based on a full review of Total Revenue, COGS, and a robust **41
 
 | Component | Detail |
 | :--- | :--- |
-| **Data Source** | [Dataset](https://github.com/HOSSAM-AMRR/Advanced-Sales-Profitability-Analysis/blob/main/AdventureWorks.xlsx) |
+| **Data Source** | [Dataset](https://github.com/HOSSAM-AMRR/Advanced-Sales-Profitability-Analysis/blob/main/Data/AdventureWorks.xlsx) |
 | **Tools Used** | [Excel ,M-language,Pivot-tables ,Power-Pivot]. |
 | **Focus** | Segmentation by customer demographics (Age, Gender) and product profitability tiers. |
 
@@ -38,11 +38,11 @@ The dual-dashboard architecture provides both an operational overview and a gran
 
 ### 4.1. Operational Overview (Sales Analysis Overview)
 
-![sales-analysis-overview](https://github.com/HOSSAM-AMRR/Advanced-Sales-Profitability-Analysis/blob/main/sales-analysis-overview.png)
+![sales-analysis-overview](https://github.com/HOSSAM-AMRR/Advanced-Sales-Profitability-Analysis/blob/main/Images/sales-analysis-overview.png)
 
 ### 4.2. Strategic Deep Dive (Product & Customer Details)
 
-![product-customer-profit-details](https://github.com/HOSSAM-AMRR/Advanced-Sales-Profitability-Analysis/blob/main/product-customer-profit-details.png)
+![product-customer-profit-details](https://github.com/HOSSAM-AMRR/Advanced-Sales-Profitability-Analysis/blob/main/Images/product-customer-profit-details.png)
 
 -----
 
